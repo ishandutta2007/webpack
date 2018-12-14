@@ -498,3 +498,10 @@ We had other sources of donations before starting to use OpenCollective. We want
 
 [cover]: https://img.shields.io/coveralls/webpack/webpack.svg
 [cover-url]: https://coveralls.io/r/webpack/webpack/
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
